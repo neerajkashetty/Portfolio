@@ -1,7 +1,9 @@
+import Intro from "@/components/intro";
+
 export default function Home() {
   return (
     <div >
-        <p></p>
+        <Intro/>
     </div>
   );
 }
