@@ -2,6 +2,7 @@ import About from "@/components/about";
 import Intro from "@/components/intro";
 import Projects from "@/components/projects";
 import SectionDiv from "@/components/sectiondiv";
+import Skills from "@/components/skills";
 
 export default function Home() {
   return (
@@ -10,6 +11,7 @@ export default function Home() {
       <SectionDiv />
       <About />
       <Projects />
+      <Skills />
     </div>
   );
 }
