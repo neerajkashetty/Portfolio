@@ -59,17 +59,17 @@ export const links = [
 
 export const projectsData = [
   {
-    title: "CorpComment",
+    title: "UniBot",
     description:
-      "I worked as a full-stack developer on this startup project for 2 years. Users can give public feedback to companies.",
-    tags: ["React", "Next.js", "MongoDB", "Tailwind", "Prisma"],
+      "University Bot which can answer the frequently asked questions and also guide the students on the syllabus they need to complete.",
+    tags: ["React", "Next.js", "Postgres", "Tailwind", "Sequelize"],
     //imageUrl: ,
   },
   {
-    title: "rmtDev",
+    title: "Portfolio",
     description:
-      "Job board for remote developer jobs. I was the front-end developer. It has features like filtering, sorting and pagination.",
-    tags: ["React", "TypeScript", "Next.js", "Tailwind", "Redux"],
+      "My personal portfolio project to improve my skill set on the framer motion and Next.js",
+    tags: ["React", "TypeScript", "Next.js", "Tailwind", "Redux", "Framer"],
     // imageUrl: ,
   },
   {
